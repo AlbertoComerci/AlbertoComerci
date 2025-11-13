@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight)
+
 
