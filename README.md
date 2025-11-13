@@ -4,6 +4,11 @@ Full Stack Developer, graduating in Software Engineering, with a strong speciali
 My background in digital arts gives me a unique approach to problem-solving, combining analytical thinking and creativity to develop robust and efficient solutions.
 Every day I strive to learn something new... and I never intend to stop.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,php,java,bootstrap,tailwind,laravel,react,spring,nextjs,nodejs,mysql,postgres,postman,kubernetes,docker,vscode,ps,blender" />
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoComerci&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
