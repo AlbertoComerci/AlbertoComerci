@@ -10,6 +10,5 @@ Every day I strive to learn something new... and I never intend to stop.
   </a>
 </p>
 
-<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight)
-</p>
