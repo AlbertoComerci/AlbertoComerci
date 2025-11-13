@@ -6,9 +6,10 @@ Every day I strive to learn something new... and I never intend to stop.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,php,java,bootstrap,tailwind,laravel,react,spring,nextjs,nodejs,mysql,postgres,postman,kubernetes,docker,vscode,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,php,java,bootstrap,tailwind,laravel,react,spring,nextjs,nodejs,mysql,postgres,postman,docker,kubernetes,vscode,ps,blender" />
   </a>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight)
+</div>
