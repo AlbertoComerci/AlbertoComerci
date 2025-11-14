@@ -21,11 +21,8 @@ Every day I strive to learn something new... and I never intend to stop.
 </div>
 
 ### Contacts 🖊️​
-
-[<img src="https://i.sstatic.net/gVE0j.png" height="36">](https://www.linkedin.com/in/alberto-comerci-developer/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-comerci-developer/)
-
 <a href="https://www.linkedin.com/in/albertocomerci" target="_blank">
-  <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/icons/linkedin.png" alt="LinkedIn" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/AlbertoComerci/AlbertoComerci/refs/heads/main/linkedin.png" alt="LinkedIn" width="100" height="100">
 </a>
 
 
