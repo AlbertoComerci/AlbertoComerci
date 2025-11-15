@@ -26,4 +26,3 @@ Every day I strive to learn something new... and I never intend to stop.
 </a>
 
 
-
