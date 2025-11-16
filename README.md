@@ -25,4 +25,3 @@ Every day I strive to learn something new... and I never intend to stop.
   <img src="https://raw.githubusercontent.com/AlbertoComerci/AlbertoComerci/refs/heads/main/linkedin.png" alt="LinkedIn" width="100" height="100">
 </a>
 
-
