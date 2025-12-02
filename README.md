@@ -15,10 +15,16 @@ Every day I strive to learn something new... and I never intend to stop.
 </p>
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AlbertoComerci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=165)](https://git.io/streak-stats)
-  
+  <img
+    alt="Most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
+  />
+  <img
+    alt="Streak"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=AlbertoComerci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=165"
+  />
 </div>
+
 
 ### Contacts 🖊️​
 <a href="https://www.linkedin.com/in/albertocomerci" target="_blank">
