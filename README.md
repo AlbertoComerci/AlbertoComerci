@@ -1,6 +1,5 @@
-## Hi, I'm Alberto👋
+# Hi, I'm Alberto👋
 ![Static Badge](https://img.shields.io/badge/Software%20Engineering%20Student-8A2BE2?style=flat) ![Static Badge](https://img.shields.io/badge/Digital%20Artist-orange?style=flat) 💻🎨​
-
 
 ### About me 🔎​
 Full Stack Developer, graduating in Software Engineering, with a strong specialization in Backend development. I recently managed the entire backend lifecycle of a complex web application, implementing authentication systems, data management, Stripe payment integration, and automations with external APIs such as Brevo and Make.com.
