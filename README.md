@@ -9,15 +9,11 @@ Every day I strive to learn something new... and I never intend to stop.
 ### My Toolbox 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,php,java,bootstrap,tailwind,laravel,react,spring,nextjs,nodejs,mysql,postgres,postman,docker,kubernetes,vscode,ps,blender" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,py,php,java,bootstrap,tailwind,laravel,react,spring,nextjs,nodejs,mysql,postgres,postman,docker,kubernetes,vscode,ps,blender,unreal,cpp" />
   </a>
 </p>
 
 <div align="center">
-  <img
-    alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoComerci&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
-  />
   <img
     alt="Streak"
     src="https://github-readme-streak-stats-eight.vercel.app?user=AlbertoComerci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=165"
