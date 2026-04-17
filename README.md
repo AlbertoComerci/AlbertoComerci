@@ -19,10 +19,3 @@ Every day I strive to learn something new... and I never intend to stop.
     src="https://github-readme-streak-stats-eight.vercel.app?user=AlbertoComerci&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=165"
   />
 </div>
-
-
-### Contacts 🖊️​
-<a href="https://www.linkedin.com/in/albertocomerci" target="_blank">
-  <img src="https://raw.githubusercontent.com/AlbertoComerci/AlbertoComerci/refs/heads/main/linkedin.png" alt="LinkedIn" width="100" height="100">
-</a>
-
