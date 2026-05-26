@@ -2,8 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/Software%20Engineering%20Student-8A2BE2?style=flat) ![Static Badge](https://img.shields.io/badge/Digital%20Artist-orange?style=flat) 💻🎨​
 
 ### About me 🔎​
-Full Stack Developer, graduating in Software Engineering, with a strong specialization in Backend development. I managed the entire backend lifecycle of a complex web application, implementing authentication systems, data management, Stripe payment integration, and automations with external APIs such as Brevo and Make.com.
-My background in digital arts gives me a unique approach to problem-solving, combining analytical thinking and creativity to develop robust and efficient solutions.
+Full Stack Developer, graduating in Software Engineering, with a strong specialization in Backend development. I love building things from scratch, whether it's a full web application, a script to automate a repetitive task, or a tool that just makes life a little easier. Automations, API integrations and clean architecture are the things that get me genuinely excited about coding.
+Technology has always been more than a job to me: it's the way I make sense of the world. 
+My Passion in digital arts and 3D gives me a perspective that bridges analytical thinking and creativity, and I think that duality is one of the most valuable things I bring to any project.
 Every day I strive to learn something new... and I never intend to stop.
 
 ### My Toolbox 🛠️
